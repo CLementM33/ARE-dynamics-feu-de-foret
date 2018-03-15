@@ -62,4 +62,4 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Trouver differentes hypotheses.
 - Terminer d'etudier les differentes ressources.
 - Mettre en place un protocole experimental.
-- Extraire des donnees reels des differentes ressources utilises.
+- Extraire des donnees reels des differentes ressources utilises. 
